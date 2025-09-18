@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm SerAbin1
 
-<!--
-**SerAbin1/SerAbin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I enjoy building practical solutions and exploring new tech. Here are a few projects I'm working on and some stats about my GitHub journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- [borderly-visa](https://github.com/aziyanck/borderly-visa)  
+  Visa management solution—streamlining international travel processes.
+
+- [evide_backend](https://github.com/Evide-AI/evide_backend)  
+  Backend for scalable AI-driven services.
+
+- [bus_stop_detection](https://github.com/SerAbin1/bus_stop_detection)  
+  Detecting bus stops using machine learning.
+
+- [evide_servercode](https://github.com/Evide-AI/evide_servercode)  
+  Server-side codebase for AI integrations.
+
+---
+
+## GitHub Stats
+
+![SerAbin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerAbin1&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerAbin1&layout=compact&theme=default)
+
+---
+
+## Socials
+
+- Email: abinyt1234@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abin-biju7
