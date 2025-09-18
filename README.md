@@ -22,8 +22,8 @@ Welcome to my GitHub! I enjoy building practical solutions and exploring new tec
 
 ## GitHub Stats
 
-![SerAbin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerAbin1&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerAbin1&layout=compact&theme=default)
+![SerAbin1's GitHub stats](https://github-readme-stats-mauve-beta-15.vercel.app/api?username=SerAbin1&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats-mauve-beta-15.vercel.app/api/top-langs/?username=SerAbin1&layout=compact&theme=chartreuse-dark)
 
 ---
 
